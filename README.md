@@ -1,1 +1,1 @@
-# Data_Visualization_LisaYllander_DE25
+# Repo for code alongs and exercises for Data Visualization course
